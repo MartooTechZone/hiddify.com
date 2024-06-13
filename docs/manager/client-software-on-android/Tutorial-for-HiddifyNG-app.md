@@ -1,4 +1,4 @@
----
+subscription link---
 title: Tutorial for HiddifyNG app
 ---
 
